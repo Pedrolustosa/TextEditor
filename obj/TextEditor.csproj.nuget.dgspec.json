@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Developer\\Csharp\\TextEditor\\TextEditor.csproj": {}
+    "C:\\Developer\\Csharp\\TextEditor\\TextEditor.csproj": {}
   },
   "projects": {
-    "c:\\Developer\\Csharp\\TextEditor\\TextEditor.csproj": {
+    "C:\\Developer\\Csharp\\TextEditor\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Developer\\Csharp\\TextEditor\\TextEditor.csproj",
+        "projectUniqueName": "C:\\Developer\\Csharp\\TextEditor\\TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "c:\\Developer\\Csharp\\TextEditor\\TextEditor.csproj",
+        "projectPath": "C:\\Developer\\Csharp\\TextEditor\\TextEditor.csproj",
         "packagesPath": "C:\\Users\\PedroLustosa\\.nuget\\packages\\",
-        "outputPath": "c:\\Developer\\Csharp\\TextEditor\\obj\\",
+        "outputPath": "C:\\Developer\\Csharp\\TextEditor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PedroLustosa\\AppData\\Roaming\\NuGet\\NuGet.Config",

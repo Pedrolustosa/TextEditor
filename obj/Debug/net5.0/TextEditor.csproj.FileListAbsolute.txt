@@ -1,0 +1,16 @@
+C:\Developer\Csharp\TextEditor\bin\Debug\net5.0\TextEditor.exe
+C:\Developer\Csharp\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+C:\Developer\Csharp\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+C:\Developer\Csharp\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+C:\Developer\Csharp\TextEditor\bin\Debug\net5.0\TextEditor.dll
+C:\Developer\Csharp\TextEditor\bin\Debug\net5.0\ref\TextEditor.dll
+C:\Developer\Csharp\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+C:\Developer\Csharp\TextEditor\obj\Debug\net5.0\TextEditor.csprojAssemblyReference.cache
+C:\Developer\Csharp\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Csharp\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+C:\Developer\Csharp\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+C:\Developer\Csharp\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Developer\Csharp\TextEditor\obj\Debug\net5.0\TextEditor.dll
+C:\Developer\Csharp\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
+C:\Developer\Csharp\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+C:\Developer\Csharp\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache
