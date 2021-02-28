@@ -6,7 +6,7 @@ namespace TextEditor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Menu();
         }
 
         static void Menu()
@@ -34,7 +34,15 @@ namespace TextEditor
         }
         static void Edit()
         {
+            Console.Clear();
+            Console.WriteLine("Enter your text (ESC) to exit");
+            Console.WriteLine("------------------");
+            string text = "";
 
+            while (Console.ReadKey().Key != ConsoleKey.Escape)
+            {
+
+            }
         }
     }
 }
